@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 99 (98)
 - Psaumes 99 (98)
 - Ps 99 (98)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/99_98
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 99 (98)

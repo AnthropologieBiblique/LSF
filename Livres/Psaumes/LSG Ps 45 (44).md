@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 45 (44)
 - Psaumes 45 (44)
 - Ps 45 (44)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/45_44
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 45 (44)

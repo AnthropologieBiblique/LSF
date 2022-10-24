@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Habaquq 2
 - Habaquq 2
 - Ha 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ha/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Habaquq 2

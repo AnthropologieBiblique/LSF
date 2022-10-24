@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuel 4
 - 2 Samuel 4
 - 2 S 4
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Samuel 4

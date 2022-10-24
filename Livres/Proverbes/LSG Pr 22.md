@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 22
 - Proverbes 22
 - Pr 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 22

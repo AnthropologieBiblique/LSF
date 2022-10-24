@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdras 3
 - Esdras 3
 - Esd 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esdras 3

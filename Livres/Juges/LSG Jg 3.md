@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 3
 - Juges 3
 - Jg 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 3

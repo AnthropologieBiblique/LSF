@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 32
 - Isaïe 32
 - Is 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/32
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 32

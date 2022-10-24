@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 53
 - Isaïe 53
 - Is 53
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/53
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 53

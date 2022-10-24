@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdras 8
 - Esdras 8
 - Esd 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esdras 8

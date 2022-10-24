@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 27 (26)
 - Psaumes 27 (26)
 - Ps 27 (26)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/27_26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 27 (26)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 42 (41)
 - Psaumes 42 (41)
 - Ps 42 (41)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/42_41
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 42 (41)

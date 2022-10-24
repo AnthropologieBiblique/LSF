@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Éphésiens 1
 - Éphésiens 1
 - Ep 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Éphésiens 1

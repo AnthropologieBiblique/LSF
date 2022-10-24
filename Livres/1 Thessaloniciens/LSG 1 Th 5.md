@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Thessaloniciens 5
 - 1 Thessaloniciens 5
 - 1 Th 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Thessaloniciens 5

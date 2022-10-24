@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 7
 - Psaumes 7
 - Ps 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 7

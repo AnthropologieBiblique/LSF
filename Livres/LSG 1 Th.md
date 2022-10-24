@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Thessaloniciens
 - 1 Thessaloniciens
 - 1 Th
@@ -8,6 +8,7 @@ tags :
 - Bible/1Th
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Thessaloniciens

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 3
 - Isaïe 3
 - Is 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 3

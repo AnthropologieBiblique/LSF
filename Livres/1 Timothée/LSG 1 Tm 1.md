@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Timothée 1
 - 1 Timothée 1
 - 1 Tm 1
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Timothée 1

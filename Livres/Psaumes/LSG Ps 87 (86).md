@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 87 (86)
 - Psaumes 87 (86)
 - Ps 87 (86)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/87_86
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 87 (86)

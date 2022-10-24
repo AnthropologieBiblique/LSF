@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Habaquq 3
 - Habaquq 3
 - Ha 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ha/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Habaquq 3

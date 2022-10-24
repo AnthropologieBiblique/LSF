@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 7
 - Daniel 7
 - Dn 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 7

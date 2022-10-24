@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 12 (11)
 - Psaumes 12 (11)
 - Ps 12 (11)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/12_11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 12 (11)

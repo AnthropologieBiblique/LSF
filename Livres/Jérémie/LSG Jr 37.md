@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 37
 - Jérémie 37
 - Jr 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/37
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 37

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 19
 - Exode 19
 - Ex 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 19

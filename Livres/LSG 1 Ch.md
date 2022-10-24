@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques
 - 1 Chroniques
 - 1 Ch
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques

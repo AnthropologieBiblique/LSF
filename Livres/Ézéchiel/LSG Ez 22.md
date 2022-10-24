@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 22
 - Ézéchiel 22
 - Ez 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 22

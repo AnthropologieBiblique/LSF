@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 21 (20)
 - Psaumes 21 (20)
 - Ps 21 (20)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/21_20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 21 (20)

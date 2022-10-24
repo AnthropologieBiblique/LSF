@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 17
 - Jérémie 17
 - Jr 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/17
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 17

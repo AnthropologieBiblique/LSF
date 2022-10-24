@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 14
 - Luc 14
 - Lc 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Luc 14

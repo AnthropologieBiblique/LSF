@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc
 - Marc
 - Mc
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Marc

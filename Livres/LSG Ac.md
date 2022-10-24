@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes
 - Actes
 - Ac
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Actes

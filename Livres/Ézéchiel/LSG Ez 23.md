@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 23
 - Ézéchiel 23
 - Ez 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 23

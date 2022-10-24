@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 29
 - Deutéronome 29
 - Dt 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/29
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 29

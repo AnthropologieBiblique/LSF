@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 45
 - Genèse 45
 - Gn 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/45
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 45

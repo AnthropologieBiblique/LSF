@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 4
 - Apocalypse 4
 - Ap 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Apocalypse 4

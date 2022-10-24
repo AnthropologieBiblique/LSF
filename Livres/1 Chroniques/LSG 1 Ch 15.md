@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 15
 - 1 Chroniques 15
 - 1 Ch 15
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/15
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 13
 - Nombres 13
 - Nb 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 13

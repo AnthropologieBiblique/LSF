@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 14
 - 1 Corinthiens 14
 - 1 Co 14
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Corinthiens 14

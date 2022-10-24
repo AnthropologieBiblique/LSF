@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges
 - Juges
 - Jg
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges

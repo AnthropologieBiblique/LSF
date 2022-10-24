@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 9
 - Jérémie 9
 - Jr 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 9

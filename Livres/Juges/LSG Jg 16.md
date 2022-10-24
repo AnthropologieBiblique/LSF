@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 16
 - Juges 16
 - Jg 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 16

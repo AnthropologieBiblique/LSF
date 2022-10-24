@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sophonie 3
 - Sophonie 3
 - So 3
@@ -8,6 +8,7 @@ tags :
 - Bible/So/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Sophonie 3

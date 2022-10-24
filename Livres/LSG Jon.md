@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jonas
 - Jonas
 - Jon
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jonas

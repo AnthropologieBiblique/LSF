@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 22
 - 2 Rois 22
 - 2 R 22
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 22

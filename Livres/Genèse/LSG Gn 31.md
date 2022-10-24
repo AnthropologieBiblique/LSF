@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 31
 - Genèse 31
 - Gn 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 31

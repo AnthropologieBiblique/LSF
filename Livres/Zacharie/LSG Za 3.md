@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharie 3
 - Zacharie 3
 - Za 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Zacharie 3

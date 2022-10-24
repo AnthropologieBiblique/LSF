@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 5
 - Juges 5
 - Jg 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 5

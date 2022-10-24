@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 8
 - 2 Chroniques 8
 - 2 Ch 8
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 8

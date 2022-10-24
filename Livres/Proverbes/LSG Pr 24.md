@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 24
 - Proverbes 24
 - Pr 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/24
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 24

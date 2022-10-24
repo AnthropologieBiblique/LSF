@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 23
 - Josué 23
 - Jos 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 23

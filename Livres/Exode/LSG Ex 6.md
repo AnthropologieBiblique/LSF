@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 6
 - Exode 6
 - Ex 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 6

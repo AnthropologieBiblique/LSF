@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 33
 - 2 Chroniques 33
 - 2 Ch 33
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/33
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 33

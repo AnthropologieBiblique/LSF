@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osée 14
 - Osée 14
 - Os 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Osée 14

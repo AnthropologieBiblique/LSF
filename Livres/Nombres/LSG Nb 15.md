@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 15
 - Nombres 15
 - Nb 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/15
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 22
 - Job 22
 - Jb 22
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 22

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 24
 - Exode 24
 - Ex 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/24
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 24

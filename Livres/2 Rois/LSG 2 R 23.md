@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 23
 - 2 Rois 23
 - 2 R 23
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 23

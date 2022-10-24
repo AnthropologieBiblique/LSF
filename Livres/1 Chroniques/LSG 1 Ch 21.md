@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 21
 - 1 Chroniques 21
 - 1 Ch 21
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 21

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 14 (13)
 - Psaumes 14 (13)
 - Ps 14 (13)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/14_13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 14 (13)

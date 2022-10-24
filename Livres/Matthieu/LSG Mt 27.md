@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 27
 - Matthieu 27
 - Mt 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/27
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu 27

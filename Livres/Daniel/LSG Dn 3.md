@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 3
 - Daniel 3
 - Dn 3
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 3

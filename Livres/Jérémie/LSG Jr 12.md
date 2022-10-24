@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 12
 - Jérémie 12
 - Jr 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 12

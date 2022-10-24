@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 12
 - 1 Chroniques 12
 - 1 Ch 12
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 12

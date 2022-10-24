@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 3
 - Apocalypse 3
 - Ap 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Apocalypse 3

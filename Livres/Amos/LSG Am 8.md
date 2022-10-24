@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 8
 - Amos 8
 - Am 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Amos 8

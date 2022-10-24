@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 16
 - Marc 16
 - Mc 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Marc 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 14
 - Exode 14
 - Ex 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 14

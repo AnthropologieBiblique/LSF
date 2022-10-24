@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 9
 - Ézéchiel 9
 - Ez 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 67 (66)
 - Psaumes 67 (66)
 - Ps 67 (66)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/67_66
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 67 (66)

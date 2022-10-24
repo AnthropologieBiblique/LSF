@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 42
 - Genèse 42
 - Gn 42
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/42
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 42

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 3 Jean
 - 3 Jean
 - 3 Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/3Jn
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 3 Jean

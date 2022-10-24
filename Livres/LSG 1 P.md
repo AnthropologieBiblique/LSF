@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Pierre
 - 1 Pierre
 - 1 P
@@ -8,6 +8,7 @@ tags :
 - Bible/1P
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Pierre

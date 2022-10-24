@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osée 10
 - Osée 10
 - Os 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Osée 10

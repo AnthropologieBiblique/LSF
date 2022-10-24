@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 25
 - Proverbes 25
 - Pr 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/25
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 25

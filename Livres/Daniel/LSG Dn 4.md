@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 4
 - Daniel 4
 - Dn 4
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 32
 - Ézéchiel 32
 - Ez 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/32
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 32

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Joël
 - Joël
 - Jl
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Joël

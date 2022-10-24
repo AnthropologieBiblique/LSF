@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 46
 - Ézéchiel 46
 - Ez 46
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/46
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 46

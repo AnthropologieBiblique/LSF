@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 86 (85)
 - Psaumes 86 (85)
 - Ps 86 (85)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/86_85
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 86 (85)

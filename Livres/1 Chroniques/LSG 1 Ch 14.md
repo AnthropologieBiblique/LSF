@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 14
 - 1 Chroniques 14
 - 1 Ch 14
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 14

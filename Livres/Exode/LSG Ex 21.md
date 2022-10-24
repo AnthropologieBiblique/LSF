@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 21
 - Exode 21
 - Ex 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 21

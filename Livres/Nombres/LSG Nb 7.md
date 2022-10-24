@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 7
 - Nombres 7
 - Nb 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 7

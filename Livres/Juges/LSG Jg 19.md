@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 19
 - Juges 19
 - Jg 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 19

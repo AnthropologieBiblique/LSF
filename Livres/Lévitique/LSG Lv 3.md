@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 3
 - Lévitique 3
 - Lv 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 3

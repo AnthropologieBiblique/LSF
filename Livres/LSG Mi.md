@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michée
 - Michée
 - Mi
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Michée

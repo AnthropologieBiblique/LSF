@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 9
 - 1 Chroniques 9
 - 1 Ch 9
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 9

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 18
 - Josué 18
 - Jos 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/18
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 18

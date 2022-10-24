@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Rois 22
 - 1 Rois 22
 - 1 R 22
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Rois 22

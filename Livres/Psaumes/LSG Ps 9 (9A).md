@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 9 (9A)
 - Psaumes 9 (9A)
 - Ps 9 (9A)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/9_9A
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 9 (9A)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 5
 - Jean 5
 - Jn 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jean 5

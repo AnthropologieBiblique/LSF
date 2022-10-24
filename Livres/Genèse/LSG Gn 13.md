@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 13
 - Genèse 13
 - Gn 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 13

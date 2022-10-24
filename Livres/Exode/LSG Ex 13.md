@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 13
 - Exode 13
 - Ex 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 13

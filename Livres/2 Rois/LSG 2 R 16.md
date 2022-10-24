@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 16
 - 2 Rois 16
 - 2 R 16
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 16

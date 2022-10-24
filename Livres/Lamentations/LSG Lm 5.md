@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lamentations 5
 - Lamentations 5
 - Lm 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lamentations 5

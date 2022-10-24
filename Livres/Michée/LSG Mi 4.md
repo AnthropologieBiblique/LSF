@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michée 4
 - Michée 4
 - Mi 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Michée 4

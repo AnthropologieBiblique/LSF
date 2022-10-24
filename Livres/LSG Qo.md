@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste
 - Ecclésiaste
 - Qo
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste

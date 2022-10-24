@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ruth 1
 - Ruth 1
 - Rt 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Rt/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ruth 1

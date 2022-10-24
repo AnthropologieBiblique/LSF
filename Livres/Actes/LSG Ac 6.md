@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 6
 - Actes 6
 - Ac 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Actes 6

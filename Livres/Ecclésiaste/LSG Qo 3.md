@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste 3
 - Ecclésiaste 3
 - Qo 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste 3

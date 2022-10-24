@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 88 (87)
 - Psaumes 88 (87)
 - Ps 88 (87)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/88_87
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 88 (87)

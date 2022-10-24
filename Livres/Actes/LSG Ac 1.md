@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 1
 - Actes 1
 - Ac 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Actes 1

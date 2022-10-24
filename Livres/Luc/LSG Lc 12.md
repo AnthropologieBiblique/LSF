@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 12
 - Luc 12
 - Lc 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Luc 12

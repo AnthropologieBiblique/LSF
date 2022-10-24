@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 49 (48)
 - Psaumes 49 (48)
 - Ps 49 (48)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/49_48
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 49 (48)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 37 (36)
 - Psaumes 37 (36)
 - Ps 37 (36)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/37_36
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 37 (36)

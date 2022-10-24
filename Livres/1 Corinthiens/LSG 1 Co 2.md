@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 2
 - 1 Corinthiens 2
 - 1 Co 2
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Corinthiens 2

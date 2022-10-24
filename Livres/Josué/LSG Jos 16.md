@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 16
 - Josué 16
 - Jos 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 16

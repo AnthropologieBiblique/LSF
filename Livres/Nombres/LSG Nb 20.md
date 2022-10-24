@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 20
 - Nombres 20
 - Nb 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 20

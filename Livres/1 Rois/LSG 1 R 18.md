@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Rois 18
 - 1 Rois 18
 - 1 R 18
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/18
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Rois 18

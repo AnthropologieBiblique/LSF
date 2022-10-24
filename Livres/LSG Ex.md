@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode
 - Exode
 - Ex
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode

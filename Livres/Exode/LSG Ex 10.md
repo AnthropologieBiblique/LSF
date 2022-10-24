@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 10
 - Exode 10
 - Ex 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 10

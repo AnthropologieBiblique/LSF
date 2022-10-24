@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 17
 - Genèse 17
 - Gn 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/17
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 17

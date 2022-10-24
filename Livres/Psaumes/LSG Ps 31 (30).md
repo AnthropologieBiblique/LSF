@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 31 (30)
 - Psaumes 31 (30)
 - Ps 31 (30)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/31_30
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 31 (30)

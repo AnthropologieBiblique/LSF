@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharie 1
 - Zacharie 1
 - Za 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Zacharie 1

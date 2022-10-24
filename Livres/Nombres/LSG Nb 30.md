@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 30
 - Nombres 30
 - Nb 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/30
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 30

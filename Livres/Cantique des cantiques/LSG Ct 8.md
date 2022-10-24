@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Cantique des cantiques 8
 - Cantique des cantiques 8
 - Ct 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Cantique des cantiques 8

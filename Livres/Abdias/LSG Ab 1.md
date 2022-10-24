@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Abdias 1
 - Abdias 1
 - Ab 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ab/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Abdias 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 12
 - Exode 12
 - Ex 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 12

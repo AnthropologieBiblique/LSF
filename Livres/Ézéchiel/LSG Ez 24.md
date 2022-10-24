@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 24
 - Ézéchiel 24
 - Ez 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/24
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 24

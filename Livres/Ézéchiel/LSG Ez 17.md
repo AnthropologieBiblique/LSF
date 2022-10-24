@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 17
 - Ézéchiel 17
 - Ez 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/17
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 17

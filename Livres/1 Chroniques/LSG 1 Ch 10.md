@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 10
 - 1 Chroniques 10
 - 1 Ch 10
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 10

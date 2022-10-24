@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdras 9
 - Esdras 9
 - Esd 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esdras 9

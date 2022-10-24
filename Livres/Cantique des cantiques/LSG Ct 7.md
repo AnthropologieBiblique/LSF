@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Cantique des cantiques 7
 - Cantique des cantiques 7
 - Ct 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Cantique des cantiques 7

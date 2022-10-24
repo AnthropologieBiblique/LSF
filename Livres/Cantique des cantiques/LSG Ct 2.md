@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Cantique des cantiques 2
 - Cantique des cantiques 2
 - Ct 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Cantique des cantiques 2

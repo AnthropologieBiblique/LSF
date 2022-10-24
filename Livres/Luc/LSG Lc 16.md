@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 16
 - Luc 16
 - Lc 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Luc 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 11 (10)
 - Psaumes 11 (10)
 - Ps 11 (10)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/11_10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 11 (10)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 5
 - Exode 5
 - Ex 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 5

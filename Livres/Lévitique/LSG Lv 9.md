@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 9
 - Lévitique 9
 - Lv 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 9

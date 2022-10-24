@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 4
 - Ézéchiel 4
 - Ez 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 4

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 7
 - Juges 7
 - Jg 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 7

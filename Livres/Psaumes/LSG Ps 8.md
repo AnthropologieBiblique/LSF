@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 8
 - Psaumes 8
 - Ps 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 8

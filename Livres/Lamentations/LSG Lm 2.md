@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lamentations 2
 - Lamentations 2
 - Lm 2
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lamentations 2

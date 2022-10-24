@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 32
 - Exode 32
 - Ex 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/32
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 32

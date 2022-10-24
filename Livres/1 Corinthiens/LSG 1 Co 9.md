@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 9
 - 1 Corinthiens 9
 - 1 Co 9
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Corinthiens 9

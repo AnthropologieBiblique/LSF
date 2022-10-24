@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 37
 - Isaïe 37
 - Is 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/37
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 37

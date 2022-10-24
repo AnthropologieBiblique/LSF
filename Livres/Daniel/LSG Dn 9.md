@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 9
 - Daniel 9
 - Dn 9
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 9

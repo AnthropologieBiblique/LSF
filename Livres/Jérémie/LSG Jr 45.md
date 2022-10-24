@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 45
 - Jérémie 45
 - Jr 45
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/45
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 45

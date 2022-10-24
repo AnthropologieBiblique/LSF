@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 37
 - Ézéchiel 37
 - Ez 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/37
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 37

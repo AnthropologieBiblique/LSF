@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 2
 - Matthieu 2
 - Mt 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu 2

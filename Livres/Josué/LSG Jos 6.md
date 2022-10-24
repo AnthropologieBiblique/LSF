@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 6
 - Josué 6
 - Jos 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 19
 - Genèse 19
 - Gn 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 19

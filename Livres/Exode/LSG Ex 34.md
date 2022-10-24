@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 34
 - Exode 34
 - Ex 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/34
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 34

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 51
 - Jérémie 51
 - Jr 51
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/51
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 51

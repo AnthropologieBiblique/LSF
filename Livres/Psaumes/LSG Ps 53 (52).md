@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 53 (52)
 - Psaumes 53 (52)
 - Ps 53 (52)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/53_52
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 53 (52)

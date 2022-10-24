@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 36 (35)
 - Psaumes 36 (35)
 - Ps 36 (35)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/36_35
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 36 (35)

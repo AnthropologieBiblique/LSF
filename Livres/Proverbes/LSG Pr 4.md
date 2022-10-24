@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 4
 - Proverbes 4
 - Pr 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 4

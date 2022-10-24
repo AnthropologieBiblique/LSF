@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 26
 - Ézéchiel 26
 - Ez 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 26

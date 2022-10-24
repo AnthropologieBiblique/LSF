@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel
 - 1 Samuel
 - 1 S
@@ -7,6 +7,7 @@ tags :
 - Bible/1S
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel

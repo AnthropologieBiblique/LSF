@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuel 13
 - 2 Samuel 13
 - 2 S 13
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Samuel 13

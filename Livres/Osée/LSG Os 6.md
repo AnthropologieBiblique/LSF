@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osée 6
 - Osée 6
 - Os 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Osée 6

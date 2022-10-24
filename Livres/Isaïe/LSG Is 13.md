@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 13
 - Isaïe 13
 - Is 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 13

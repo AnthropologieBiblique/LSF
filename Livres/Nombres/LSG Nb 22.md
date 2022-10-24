@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 22
 - Nombres 22
 - Nb 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 22

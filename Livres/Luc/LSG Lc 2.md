@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 2
 - Luc 2
 - Lc 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Luc 2

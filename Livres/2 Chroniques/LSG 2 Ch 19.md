@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 19
 - 2 Chroniques 19
 - 2 Ch 19
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 19

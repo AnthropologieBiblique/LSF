@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 60 (59)
 - Psaumes 60 (59)
 - Ps 60 (59)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/60_59
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 60 (59)

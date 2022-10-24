@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 12
 - Proverbes 12
 - Pr 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 12

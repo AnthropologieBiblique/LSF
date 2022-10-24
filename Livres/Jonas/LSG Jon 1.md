@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jonas 1
 - Jonas 1
 - Jon 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jonas 1

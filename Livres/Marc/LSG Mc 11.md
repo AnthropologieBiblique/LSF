@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 11
 - Marc 11
 - Mc 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Marc 11

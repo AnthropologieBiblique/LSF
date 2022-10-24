@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 1
 - Daniel 1
 - Dn 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 1

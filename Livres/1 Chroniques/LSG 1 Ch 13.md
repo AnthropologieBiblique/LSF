@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 13
 - 1 Chroniques 13
 - 1 Ch 13
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 13

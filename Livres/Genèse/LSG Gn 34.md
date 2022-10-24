@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 34
 - Genèse 34
 - Gn 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/34
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 34

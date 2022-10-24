@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jacques 4
 - Jacques 4
 - Jc 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jc/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jacques 4

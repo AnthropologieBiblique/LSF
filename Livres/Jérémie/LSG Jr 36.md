@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 36
 - Jérémie 36
 - Jr 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/36
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 36

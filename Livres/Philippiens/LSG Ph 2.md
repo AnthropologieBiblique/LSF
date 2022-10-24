@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Philippiens 2
 - Philippiens 2
 - Ph 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Philippiens 2

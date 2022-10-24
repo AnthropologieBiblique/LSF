@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 1
 - Psaumes 1
 - Ps 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 1

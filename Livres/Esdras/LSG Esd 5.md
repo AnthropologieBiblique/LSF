@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdras 5
 - Esdras 5
 - Esd 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esdras 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 32
 - Nombres 32
 - Nb 32
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/32
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 32

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Cantique des cantiques 6
 - Cantique des cantiques 6
 - Ct 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Cantique des cantiques 6

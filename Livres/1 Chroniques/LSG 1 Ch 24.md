@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 24
 - 1 Chroniques 24
 - 1 Ch 24
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/24
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 24

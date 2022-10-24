@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 7
 - Job 7
 - Jb 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 7

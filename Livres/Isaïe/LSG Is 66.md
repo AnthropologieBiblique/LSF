@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 66
 - Isaïe 66
 - Is 66
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/66
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 66

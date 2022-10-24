@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 14
 - Actes 14
 - Ac 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Actes 14

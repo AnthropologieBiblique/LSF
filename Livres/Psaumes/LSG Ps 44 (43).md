@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 44 (43)
 - Psaumes 44 (43)
 - Ps 44 (43)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/44_43
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 44 (43)

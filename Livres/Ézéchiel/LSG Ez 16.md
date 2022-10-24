@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 16
 - Ézéchiel 16
 - Ez 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 16

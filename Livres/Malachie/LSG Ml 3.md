@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Malachie 3
 - Malachie 3
 - Ml 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ml/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Malachie 3

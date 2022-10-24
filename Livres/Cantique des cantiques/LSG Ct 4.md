@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Cantique des cantiques 4
 - Cantique des cantiques 4
 - Ct 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Cantique des cantiques 4

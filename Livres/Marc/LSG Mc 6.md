@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 6
 - Marc 6
 - Mc 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Marc 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel 10
 - 1 Samuel 10
 - 1 S 10
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel 10

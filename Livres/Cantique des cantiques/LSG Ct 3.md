@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Cantique des cantiques 3
 - Cantique des cantiques 3
 - Ct 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Cantique des cantiques 3

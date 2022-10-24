@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 31
 - 2 Chroniques 31
 - 2 Ch 31
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 31

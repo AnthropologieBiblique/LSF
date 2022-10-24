@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 11
 - Daniel 11
 - Dn 11
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 11

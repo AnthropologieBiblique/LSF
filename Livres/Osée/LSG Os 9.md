@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osée 9
 - Osée 9
 - Os 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Osée 9

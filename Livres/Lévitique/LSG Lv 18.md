@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 18
 - Lévitique 18
 - Lv 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/18
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 18

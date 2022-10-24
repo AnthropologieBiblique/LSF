@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 23
 - Isaïe 23
 - Is 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 23

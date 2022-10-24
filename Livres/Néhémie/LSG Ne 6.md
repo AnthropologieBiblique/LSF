@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Néhémie 6
 - Néhémie 6
 - Ne 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Néhémie 6

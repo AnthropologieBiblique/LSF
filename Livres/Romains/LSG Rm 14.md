@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 14
 - Romains 14
 - Rm 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Romains 14

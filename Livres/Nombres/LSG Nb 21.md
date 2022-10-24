@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 21
 - Nombres 21
 - Nb 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 21

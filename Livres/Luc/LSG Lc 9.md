@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 9
 - Luc 9
 - Lc 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Luc 9

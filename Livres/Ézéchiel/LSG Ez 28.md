@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 28
 - Ézéchiel 28
 - Ez 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/28
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 28

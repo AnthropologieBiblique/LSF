@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 19 (18)
 - Psaumes 19 (18)
 - Ps 19 (18)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/19_18
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 19 (18)

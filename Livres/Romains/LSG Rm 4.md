@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 4
 - Romains 4
 - Rm 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Romains 4

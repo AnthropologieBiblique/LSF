@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Rois 17
 - 1 Rois 17
 - 1 R 17
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/17
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Rois 17

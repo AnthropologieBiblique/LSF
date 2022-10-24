@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel 21
 - 1 Samuel 21
 - 1 S 21
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel 21

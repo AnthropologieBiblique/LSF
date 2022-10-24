@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 36
 - Job 36
 - Jb 36
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/36
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 36

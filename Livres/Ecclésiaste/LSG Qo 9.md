@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste 9
 - Ecclésiaste 9
 - Qo 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste 9

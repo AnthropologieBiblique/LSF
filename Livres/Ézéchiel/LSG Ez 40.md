@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 40
 - Ézéchiel 40
 - Ez 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/40
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 40

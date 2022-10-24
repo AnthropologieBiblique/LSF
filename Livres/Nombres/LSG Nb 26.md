@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 26
 - Nombres 26
 - Nb 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 26

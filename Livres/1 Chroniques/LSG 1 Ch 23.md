@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 23
 - 1 Chroniques 23
 - 1 Ch 23
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 23

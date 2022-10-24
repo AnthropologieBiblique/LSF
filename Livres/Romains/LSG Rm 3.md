@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 3
 - Romains 3
 - Rm 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Romains 3

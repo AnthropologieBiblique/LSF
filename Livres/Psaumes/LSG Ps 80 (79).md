@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 80 (79)
 - Psaumes 80 (79)
 - Ps 80 (79)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/80_79
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 80 (79)

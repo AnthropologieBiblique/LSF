@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharie 4
 - Zacharie 4
 - Za 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Zacharie 4

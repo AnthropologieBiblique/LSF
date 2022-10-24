@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 20
 - Ézéchiel 20
 - Ez 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 20

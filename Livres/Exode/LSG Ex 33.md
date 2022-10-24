@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 33
 - Exode 33
 - Ex 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/33
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 33

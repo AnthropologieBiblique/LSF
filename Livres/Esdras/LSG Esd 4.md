@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdras 4
 - Esdras 4
 - Esd 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esdras 4

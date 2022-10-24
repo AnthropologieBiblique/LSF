@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 36
 - Exode 36
 - Ex 36
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/36
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 36

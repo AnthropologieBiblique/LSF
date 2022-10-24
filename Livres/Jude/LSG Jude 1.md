@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jude 1
 - Jude 1
 - Jude 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Jude/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jude 1

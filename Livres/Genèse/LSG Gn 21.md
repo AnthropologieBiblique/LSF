@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 21
 - Genèse 21
 - Gn 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 21

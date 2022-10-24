@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 17
 - Nombres 17
 - Nb 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/17
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 17

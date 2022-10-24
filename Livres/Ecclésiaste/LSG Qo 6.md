@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste 6
 - Ecclésiaste 6
 - Qo 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste 6

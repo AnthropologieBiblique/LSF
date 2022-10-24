@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 33
 - Nombres 33
 - Nb 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/33
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 33

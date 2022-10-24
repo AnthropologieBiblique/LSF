@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 9
 - Matthieu 9
 - Mt 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu 9

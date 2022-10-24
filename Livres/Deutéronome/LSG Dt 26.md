@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 26
 - Deutéronome 26
 - Dt 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 26

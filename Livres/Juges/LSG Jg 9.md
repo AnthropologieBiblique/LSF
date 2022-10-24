@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 9
 - Juges 9
 - Jg 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 9

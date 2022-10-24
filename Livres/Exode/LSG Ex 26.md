@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 26
 - Exode 26
 - Ex 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 26

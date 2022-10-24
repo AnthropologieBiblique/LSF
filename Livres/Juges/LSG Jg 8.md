@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 8
 - Juges 8
 - Jg 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 8

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdras 1
 - Esdras 1
 - Esd 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esdras 1

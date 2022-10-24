@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 4
 - Nombres 4
 - Nb 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 4

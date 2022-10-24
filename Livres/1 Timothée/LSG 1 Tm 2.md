@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Timothée 2
 - 1 Timothée 2
 - 1 Tm 2
@@ -8,6 +8,7 @@ tags :
 - Bible/1Tm/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Timothée 2

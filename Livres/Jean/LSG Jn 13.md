@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 13
 - Jean 13
 - Jn 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jean 13

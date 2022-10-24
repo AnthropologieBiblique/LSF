@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharie 12
 - Zacharie 12
 - Za 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Zacharie 12

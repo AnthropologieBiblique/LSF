@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Colossiens 1
 - Colossiens 1
 - Col 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Colossiens 1

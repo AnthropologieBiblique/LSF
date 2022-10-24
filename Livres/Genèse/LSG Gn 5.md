@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 5
 - Genèse 5
 - Gn 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 5

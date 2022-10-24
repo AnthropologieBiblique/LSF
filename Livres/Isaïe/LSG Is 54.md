@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 54
 - Isaïe 54
 - Is 54
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/54
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 54

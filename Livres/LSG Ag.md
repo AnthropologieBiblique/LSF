@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Aggée
 - Aggée
 - Ag
@@ -8,6 +8,7 @@ tags :
 - Bible/Ag
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Aggée

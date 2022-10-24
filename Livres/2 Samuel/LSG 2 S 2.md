@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuel 2
 - 2 Samuel 2
 - 2 S 2
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Samuel 2

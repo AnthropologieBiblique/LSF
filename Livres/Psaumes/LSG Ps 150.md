@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 150
 - Psaumes 150
 - Ps 150
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/150
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 150

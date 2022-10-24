@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 5
 - Deutéronome 5
 - Dt 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 5

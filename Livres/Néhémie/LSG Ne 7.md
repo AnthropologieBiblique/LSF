@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Néhémie 7
 - Néhémie 7
 - Ne 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Néhémie 7

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 34
 - Ézéchiel 34
 - Ez 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/34
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 34

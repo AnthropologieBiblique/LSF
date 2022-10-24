@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 2
 - Jérémie 2
 - Jr 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 2

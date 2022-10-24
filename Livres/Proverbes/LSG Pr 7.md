@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 7
 - Proverbes 7
 - Pr 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 7

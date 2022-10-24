@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 16
 - Exode 16
 - Ex 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 16

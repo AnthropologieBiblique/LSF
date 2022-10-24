@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 44
 - Genèse 44
 - Gn 44
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/44
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 44

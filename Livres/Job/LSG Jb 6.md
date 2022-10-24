@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 6
 - Job 6
 - Jb 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 6

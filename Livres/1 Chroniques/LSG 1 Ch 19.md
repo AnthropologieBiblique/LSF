@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 19
 - 1 Chroniques 19
 - 1 Ch 19
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 19

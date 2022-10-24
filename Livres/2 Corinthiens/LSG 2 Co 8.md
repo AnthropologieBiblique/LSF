@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Corinthiens 8
 - 2 Corinthiens 8
 - 2 Co 8
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Corinthiens 8

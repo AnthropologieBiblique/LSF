@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 47
 - Isaïe 47
 - Is 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/47
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 47

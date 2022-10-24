@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jonas 2
 - Jonas 2
 - Jon 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jon/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jonas 2

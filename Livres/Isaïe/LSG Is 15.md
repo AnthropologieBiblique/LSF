@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 15
 - Isaïe 15
 - Is 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/15
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 15

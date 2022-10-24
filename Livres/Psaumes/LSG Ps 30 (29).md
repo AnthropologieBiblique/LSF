@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 30 (29)
 - Psaumes 30 (29)
 - Ps 30 (29)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/30_29
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 30 (29)

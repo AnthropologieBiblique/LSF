@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 10
 - Josué 10
 - Jos 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 10

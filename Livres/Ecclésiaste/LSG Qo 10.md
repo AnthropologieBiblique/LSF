@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste 10
 - Ecclésiaste 10
 - Qo 10
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste 10

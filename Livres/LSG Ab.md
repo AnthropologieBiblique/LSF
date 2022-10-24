@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Abdias
 - Abdias
 - Ab
@@ -8,6 +8,7 @@ tags :
 - Bible/Ab
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Abdias

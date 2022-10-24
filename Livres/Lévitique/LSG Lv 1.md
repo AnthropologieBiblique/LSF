@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 1
 - Lévitique 1
 - Lv 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 1

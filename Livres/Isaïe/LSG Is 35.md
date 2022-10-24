@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 35
 - Isaïe 35
 - Is 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/35
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 35

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 31
 - Proverbes 31
 - Pr 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 31

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 5
 - 1 Chroniques 5
 - 1 Ch 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 5

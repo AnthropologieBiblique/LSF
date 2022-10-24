@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Jean
 - 2 Jean
 - 2 Jn
@@ -8,6 +8,7 @@ tags :
 - Bible/2Jn
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Jean

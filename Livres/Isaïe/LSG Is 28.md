@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 28
 - Isaïe 28
 - Is 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/28
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 28

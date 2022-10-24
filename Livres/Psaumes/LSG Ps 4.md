@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 4
 - Psaumes 4
 - Ps 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 4

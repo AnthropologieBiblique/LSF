@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 28
 - Genèse 28
 - Gn 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/28
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 28

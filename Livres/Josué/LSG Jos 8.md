@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 8
 - Josué 8
 - Jos 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 8

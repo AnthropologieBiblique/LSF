@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 20
 - 1 Chroniques 20
 - 1 Ch 20
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 29
 - 2 Chroniques 29
 - 2 Ch 29
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/29
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 29

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 58
 - Isaïe 58
 - Is 58
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/58
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 58

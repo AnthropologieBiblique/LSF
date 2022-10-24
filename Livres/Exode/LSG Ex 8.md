@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 8
 - Exode 8
 - Ex 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 8

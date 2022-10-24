@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 41
 - Job 41
 - Jb 41
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/41
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 41

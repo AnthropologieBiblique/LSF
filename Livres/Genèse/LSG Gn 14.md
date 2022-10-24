@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 14
 - Genèse 14
 - Gn 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 14

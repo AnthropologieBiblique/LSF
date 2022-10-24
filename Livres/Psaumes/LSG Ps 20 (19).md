@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 20 (19)
 - Psaumes 20 (19)
 - Ps 20 (19)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/20_19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 20 (19)

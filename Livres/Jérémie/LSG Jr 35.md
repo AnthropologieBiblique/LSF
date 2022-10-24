@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 35
 - Jérémie 35
 - Jr 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/35
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 35

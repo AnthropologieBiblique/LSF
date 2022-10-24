@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 47
 - Genèse 47
 - Gn 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/47
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 47

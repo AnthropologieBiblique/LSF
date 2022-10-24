@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 34
 - 2 Chroniques 34
 - 2 Ch 34
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/34
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 34

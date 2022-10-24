@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 3
 - 1 Corinthiens 3
 - 1 Co 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Corinthiens 3

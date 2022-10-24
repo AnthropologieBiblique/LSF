@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Timothée 4
 - 2 Timothée 4
 - 2 Tm 4
@@ -8,6 +8,7 @@ tags :
 - Bible/2Tm/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Timothée 4

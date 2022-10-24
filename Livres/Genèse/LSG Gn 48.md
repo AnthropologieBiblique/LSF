@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 48
 - Genèse 48
 - Gn 48
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/48
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 48

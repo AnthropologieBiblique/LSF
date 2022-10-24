@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Éphésiens 6
 - Éphésiens 6
 - Ep 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ep/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Éphésiens 6

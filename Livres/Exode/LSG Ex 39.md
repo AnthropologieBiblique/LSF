@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 39
 - Exode 39
 - Ex 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/39
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 39

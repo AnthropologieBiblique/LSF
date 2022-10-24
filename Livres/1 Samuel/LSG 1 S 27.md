@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel 27
 - 1 Samuel 27
 - 1 S 27
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/27
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel 27

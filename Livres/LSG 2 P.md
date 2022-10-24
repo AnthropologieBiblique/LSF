@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Pierre
 - 2 Pierre
 - 2 P
@@ -8,6 +8,7 @@ tags :
 - Bible/2P
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Pierre

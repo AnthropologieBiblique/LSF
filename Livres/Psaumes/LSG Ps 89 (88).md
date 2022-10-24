@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 89 (88)
 - Psaumes 89 (88)
 - Ps 89 (88)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/89_88
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 89 (88)

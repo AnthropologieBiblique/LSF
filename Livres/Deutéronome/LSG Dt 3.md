@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 3
 - Deutéronome 3
 - Dt 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 41
 - Jérémie 41
 - Jr 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/41
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 41

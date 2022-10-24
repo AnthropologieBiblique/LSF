@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Philémon
 - Philémon
 - Phm
@@ -8,6 +8,7 @@ tags :
 - Bible/Phm
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Philémon

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuel 9
 - 2 Samuel 9
 - 2 S 9
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Samuel 9

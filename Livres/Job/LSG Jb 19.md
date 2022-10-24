@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 19
 - Job 19
 - Jb 19
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 19

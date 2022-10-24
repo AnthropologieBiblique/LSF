@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 40 (39)
 - Psaumes 40 (39)
 - Ps 40 (39)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/40_39
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 40 (39)

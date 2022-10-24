@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 30
 - Genèse 30
 - Gn 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/30
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 30

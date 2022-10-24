@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 8
 - Lévitique 8
 - Lv 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 8

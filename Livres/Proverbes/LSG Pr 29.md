@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 29
 - Proverbes 29
 - Pr 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/29
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 29

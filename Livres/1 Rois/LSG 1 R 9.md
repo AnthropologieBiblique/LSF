@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Rois 9
 - 1 Rois 9
 - 1 R 9
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Rois 9

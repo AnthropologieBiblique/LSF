@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 59 (58)
 - Psaumes 59 (58)
 - Ps 59 (58)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/59_58
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 59 (58)

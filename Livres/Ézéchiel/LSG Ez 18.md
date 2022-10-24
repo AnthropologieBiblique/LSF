@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 18
 - Ézéchiel 18
 - Ez 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/18
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 18

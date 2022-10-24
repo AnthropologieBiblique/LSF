@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 73 (72)
 - Psaumes 73 (72)
 - Ps 73 (72)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/73_72
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 73 (72)

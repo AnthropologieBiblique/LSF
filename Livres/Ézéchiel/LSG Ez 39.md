@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 39
 - Ézéchiel 39
 - Ez 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/39
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 39

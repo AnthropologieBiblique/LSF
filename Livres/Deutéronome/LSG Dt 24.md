@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 24
 - Deutéronome 24
 - Dt 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/24
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 24

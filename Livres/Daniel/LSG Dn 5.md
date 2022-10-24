@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 5
 - Daniel 5
 - Dn 5
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 5

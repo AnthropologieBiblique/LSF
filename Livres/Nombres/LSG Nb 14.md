@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 14
 - Nombres 14
 - Nb 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 14

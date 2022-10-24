@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 8
 - Genèse 8
 - Gn 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 8

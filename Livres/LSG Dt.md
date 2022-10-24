@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome
 - Deutéronome
 - Dt
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome

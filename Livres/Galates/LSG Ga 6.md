@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates 6
 - Galates 6
 - Ga 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Galates 6

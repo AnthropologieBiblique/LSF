@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 11
 - Exode 11
 - Ex 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 11

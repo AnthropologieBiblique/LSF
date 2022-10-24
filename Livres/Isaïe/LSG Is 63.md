@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 63
 - Isaïe 63
 - Is 63
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/63
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 63

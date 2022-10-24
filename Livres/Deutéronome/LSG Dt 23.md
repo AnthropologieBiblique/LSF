@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 23
 - Deutéronome 23
 - Dt 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 23

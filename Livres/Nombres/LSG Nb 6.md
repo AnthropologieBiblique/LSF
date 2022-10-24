@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 6
 - Nombres 6
 - Nb 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 6

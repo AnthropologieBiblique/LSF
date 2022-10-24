@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Néhémie 11
 - Néhémie 11
 - Ne 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Néhémie 11

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 20
 - Jérémie 20
 - Jr 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 20

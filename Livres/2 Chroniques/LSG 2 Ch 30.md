@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 30
 - 2 Chroniques 30
 - 2 Ch 30
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/30
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 30

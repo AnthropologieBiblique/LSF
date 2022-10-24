@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 55 (54)
 - Psaumes 55 (54)
 - Ps 55 (54)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/55_54
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 55 (54)

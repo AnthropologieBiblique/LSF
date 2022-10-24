@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 2
 - Josué 2
 - Jos 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 2

@@ -1,6 +1,7 @@
 ---
 tags : Bible, français
 cssclass : français
+direction : ltr
 ---
 # Louis Segond
 

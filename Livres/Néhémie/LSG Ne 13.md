@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Néhémie 13
 - Néhémie 13
 - Ne 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Néhémie 13

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel 3
 - 1 Samuel 3
 - 1 S 3
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel 3

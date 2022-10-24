@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Apocalypse 11
 - Apocalypse 11
 - Ap 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ap/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Apocalypse 11

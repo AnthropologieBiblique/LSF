@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 5
 - Psaumes 5
 - Ps 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 5

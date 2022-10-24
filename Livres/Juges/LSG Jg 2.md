@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 2
 - Juges 2
 - Jg 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 2

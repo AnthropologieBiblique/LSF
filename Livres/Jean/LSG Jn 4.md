@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 4
 - Jean 4
 - Jn 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jean 4

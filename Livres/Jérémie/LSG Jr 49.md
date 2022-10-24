@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 49
 - Jérémie 49
 - Jr 49
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/49
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 49

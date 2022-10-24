@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 2
 - Psaumes 2
 - Ps 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 2

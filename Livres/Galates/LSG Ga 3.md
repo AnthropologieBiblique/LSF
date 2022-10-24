@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Galates 3
 - Galates 3
 - Ga 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ga/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Galates 3

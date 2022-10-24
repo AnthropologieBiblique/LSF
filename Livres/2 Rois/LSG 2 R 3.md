@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 3
 - 2 Rois 3
 - 2 R 3
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 3

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 51
 - Isaïe 51
 - Is 51
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/51
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 51

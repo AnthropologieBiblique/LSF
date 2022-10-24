@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 32
 - Job 32
 - Jb 32
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/32
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 32

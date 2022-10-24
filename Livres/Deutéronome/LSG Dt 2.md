@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 2
 - Deutéronome 2
 - Dt 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 2

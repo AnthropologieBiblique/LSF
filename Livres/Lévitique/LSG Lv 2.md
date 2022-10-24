@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 2
 - Lévitique 2
 - Lv 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 2

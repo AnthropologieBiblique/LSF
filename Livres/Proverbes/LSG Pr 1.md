@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 1
 - Proverbes 1
 - Pr 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 1

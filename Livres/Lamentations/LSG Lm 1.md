@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lamentations 1
 - Lamentations 1
 - Lm 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Lm/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lamentations 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 4
 - Matthieu 4
 - Mt 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu 4

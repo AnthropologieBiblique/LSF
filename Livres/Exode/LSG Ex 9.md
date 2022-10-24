@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 9
 - Exode 9
 - Ex 9
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/9
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 9

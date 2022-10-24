@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 15
 - Ézéchiel 15
 - Ez 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/15
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 15

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 91 (90)
 - Psaumes 91 (90)
 - Ps 91 (90)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/91_90
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 91 (90)

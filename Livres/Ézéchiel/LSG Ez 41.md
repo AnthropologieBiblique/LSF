@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 41
 - Ézéchiel 41
 - Ez 41
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/41
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 41

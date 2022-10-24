@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Philippiens 3
 - Philippiens 3
 - Ph 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ph/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Philippiens 3

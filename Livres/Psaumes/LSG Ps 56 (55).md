@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 56 (55)
 - Psaumes 56 (55)
 - Ps 56 (55)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/56_55
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 56 (55)

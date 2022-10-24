@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 149
 - Psaumes 149
 - Ps 149
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/149
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 149

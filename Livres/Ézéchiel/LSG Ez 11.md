@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 11
 - Ézéchiel 11
 - Ez 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 11

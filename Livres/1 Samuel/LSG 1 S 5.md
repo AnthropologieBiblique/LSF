@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel 5
 - 1 Samuel 5
 - 1 S 5
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel 5

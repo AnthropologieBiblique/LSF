@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Rois 5
 - 1 Rois 5
 - 1 R 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Rois 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 20
 - Exode 20
 - Ex 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 20

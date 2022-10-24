@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 16
 - Lévitique 16
 - Lv 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 52 (51)
 - Psaumes 52 (51)
 - Ps 52 (51)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/52_51
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 52 (51)

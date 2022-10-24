@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 97 (96)
 - Psaumes 97 (96)
 - Ps 97 (96)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/97_96
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 97 (96)

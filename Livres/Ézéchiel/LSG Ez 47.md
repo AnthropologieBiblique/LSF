@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 47
 - Ézéchiel 47
 - Ez 47
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/47
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 47

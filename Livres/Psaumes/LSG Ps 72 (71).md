@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 72 (71)
 - Psaumes 72 (71)
 - Ps 72 (71)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/72_71
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 72 (71)

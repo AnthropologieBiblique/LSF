@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 78 (77)
 - Psaumes 78 (77)
 - Ps 78 (77)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/78_77
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 78 (77)

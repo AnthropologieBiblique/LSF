@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Hébreux 10
 - Hébreux 10
 - He 10
@@ -8,6 +8,7 @@ tags :
 - Bible/He/10
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Hébreux 10

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 22
 - Lévitique 22
 - Lv 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 22

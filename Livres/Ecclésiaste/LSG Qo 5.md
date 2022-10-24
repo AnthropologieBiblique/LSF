@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste 5
 - Ecclésiaste 5
 - Qo 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste 5

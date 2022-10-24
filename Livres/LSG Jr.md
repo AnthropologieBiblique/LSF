@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie
 - Jérémie
 - Jr
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie

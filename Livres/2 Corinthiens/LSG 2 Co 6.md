@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Corinthiens 6
 - 2 Corinthiens 6
 - 2 Co 6
@@ -8,6 +8,7 @@ tags :
 - Bible/2Co/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Corinthiens 6

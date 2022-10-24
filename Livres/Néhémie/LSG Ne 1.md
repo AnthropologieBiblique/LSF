@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Néhémie 1
 - Néhémie 1
 - Ne 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Néhémie 1

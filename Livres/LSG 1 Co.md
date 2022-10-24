@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens
 - 1 Corinthiens
 - 1 Co
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Corinthiens

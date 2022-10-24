@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 2
 - Romains 2
 - Rm 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Romains 2

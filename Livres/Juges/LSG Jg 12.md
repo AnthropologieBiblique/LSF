@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 12
 - Juges 12
 - Jg 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 12

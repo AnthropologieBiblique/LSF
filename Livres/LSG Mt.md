@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu
 - Matthieu
 - Mt
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu

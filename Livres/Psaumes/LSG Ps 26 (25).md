@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 26 (25)
 - Psaumes 26 (25)
 - Ps 26 (25)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/26_25
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 26 (25)

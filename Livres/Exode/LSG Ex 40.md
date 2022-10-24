@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 40
 - Exode 40
 - Ex 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/40
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 40

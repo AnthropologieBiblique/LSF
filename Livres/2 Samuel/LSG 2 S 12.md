@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuel 12
 - 2 Samuel 12
 - 2 S 12
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Samuel 12

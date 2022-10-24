@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 57
 - Isaïe 57
 - Is 57
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/57
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 57

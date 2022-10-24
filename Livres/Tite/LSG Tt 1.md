@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tite 1
 - Tite 1
 - Tt 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Tite 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 5
 - Josué 5
 - Jos 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 5

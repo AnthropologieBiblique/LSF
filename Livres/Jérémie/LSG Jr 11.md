@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 11
 - Jérémie 11
 - Jr 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 11

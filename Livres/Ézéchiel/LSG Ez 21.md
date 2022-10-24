@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 21
 - Ézéchiel 21
 - Ez 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 21

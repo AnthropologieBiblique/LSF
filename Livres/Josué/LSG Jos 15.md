@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 15
 - Josué 15
 - Jos 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/15
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 15

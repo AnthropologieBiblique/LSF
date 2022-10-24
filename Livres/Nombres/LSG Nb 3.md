@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 3
 - Nombres 3
 - Nb 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 3

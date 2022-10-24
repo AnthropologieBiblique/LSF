@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 37
 - Exode 37
 - Ex 37
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/37
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 37

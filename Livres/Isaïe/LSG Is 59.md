@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 59
 - Isaïe 59
 - Is 59
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/59
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 59

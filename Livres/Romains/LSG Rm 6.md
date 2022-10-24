@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 6
 - Romains 6
 - Rm 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Romains 6

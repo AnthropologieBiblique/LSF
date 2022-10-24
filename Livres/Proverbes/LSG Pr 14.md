@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 14
 - Proverbes 14
 - Pr 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 64 (63)
 - Psaumes 64 (63)
 - Ps 64 (63)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/64_63
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 64 (63)

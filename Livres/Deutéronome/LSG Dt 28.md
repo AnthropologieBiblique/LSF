@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 28
 - Deutéronome 28
 - Dt 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/28
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 28

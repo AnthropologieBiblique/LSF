@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe
 - Isaïe
 - Is
@@ -8,6 +8,7 @@ tags :
 - Bible/Is
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe

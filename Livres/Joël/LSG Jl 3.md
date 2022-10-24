@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Joël 3
 - Joël 3
 - Jl 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Jl/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Joël 3

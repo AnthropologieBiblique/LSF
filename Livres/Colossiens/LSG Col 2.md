@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Colossiens 2
 - Colossiens 2
 - Col 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Col/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Colossiens 2

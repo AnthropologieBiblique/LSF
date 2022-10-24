@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharie 5
 - Zacharie 5
 - Za 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Zacharie 5

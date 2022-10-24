@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 19
 - Jérémie 19
 - Jr 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 19

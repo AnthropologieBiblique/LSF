@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 35
 - Exode 35
 - Ex 35
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/35
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 35

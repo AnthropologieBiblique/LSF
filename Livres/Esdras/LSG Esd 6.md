@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esdras 6
 - Esdras 6
 - Esd 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Esd/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esdras 6

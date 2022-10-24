@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 40
 - Jérémie 40
 - Jr 40
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/40
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 40

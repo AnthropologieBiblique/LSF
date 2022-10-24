@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 29
 - Nombres 29
 - Nb 29
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/29
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 29

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 43
 - Ézéchiel 43
 - Ez 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/43
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 43

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 61 (60)
 - Psaumes 61 (60)
 - Ps 61 (60)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/61_60
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 61 (60)

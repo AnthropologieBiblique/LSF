@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Tite 2
 - Tite 2
 - Tt 2
@@ -8,6 +8,7 @@ tags :
 - Bible/Tt/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Tite 2

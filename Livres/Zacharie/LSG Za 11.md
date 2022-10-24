@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharie 11
 - Zacharie 11
 - Za 11
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Zacharie 11

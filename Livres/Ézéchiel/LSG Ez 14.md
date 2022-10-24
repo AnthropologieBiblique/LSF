@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 14
 - Ézéchiel 14
 - Ez 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 14

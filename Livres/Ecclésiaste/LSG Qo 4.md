@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste 4
 - Ecclésiaste 4
 - Qo 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste 4

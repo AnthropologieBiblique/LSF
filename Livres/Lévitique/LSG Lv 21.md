@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 21
 - Lévitique 21
 - Lv 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 21

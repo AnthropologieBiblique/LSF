@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 6
 - Isaïe 6
 - Is 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 6

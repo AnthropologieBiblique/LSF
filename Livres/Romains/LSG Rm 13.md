@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains 13
 - Romains 13
 - Rm 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Romains 13

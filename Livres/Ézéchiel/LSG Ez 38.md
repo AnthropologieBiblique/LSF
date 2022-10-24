@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 38
 - Ézéchiel 38
 - Ez 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/38
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 38

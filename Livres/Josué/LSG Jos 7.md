@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 7
 - Josué 7
 - Jos 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 7

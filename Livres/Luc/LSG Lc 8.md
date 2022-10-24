@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 8
 - Luc 8
 - Lc 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Luc 8

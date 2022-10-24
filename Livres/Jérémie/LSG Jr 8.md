@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 8
 - Jérémie 8
 - Jr 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 8

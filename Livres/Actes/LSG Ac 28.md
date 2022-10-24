@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Actes 28
 - Actes 28
 - Ac 28
@@ -8,6 +8,7 @@ tags :
 - Bible/Ac/28
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Actes 28

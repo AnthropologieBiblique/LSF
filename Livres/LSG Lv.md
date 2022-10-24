@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique
 - Lévitique
 - Lv
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Juges 4
 - Juges 4
 - Jg 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Jg/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Juges 4

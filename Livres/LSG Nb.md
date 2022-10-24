@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres
 - Nombres
 - Nb
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres

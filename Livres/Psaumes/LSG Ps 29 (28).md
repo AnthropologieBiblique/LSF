@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 29 (28)
 - Psaumes 29 (28)
 - Ps 29 (28)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/29_28
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 29 (28)

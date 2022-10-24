@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 14
 - Josué 14
 - Jos 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 13
 - 2 Rois 13
 - 2 R 13
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 13

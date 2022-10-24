@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 19
 - 2 Rois 19
 - 2 R 19
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 19

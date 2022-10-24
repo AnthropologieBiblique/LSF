@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Michée 3
 - Michée 3
 - Mi 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Mi/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Michée 3

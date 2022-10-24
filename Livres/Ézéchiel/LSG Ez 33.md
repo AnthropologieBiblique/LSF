@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 33
 - Ézéchiel 33
 - Ez 33
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/33
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 33

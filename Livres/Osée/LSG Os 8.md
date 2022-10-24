@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Osée 8
 - Osée 8
 - Os 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Os/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Osée 8

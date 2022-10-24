@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Néhémie 3
 - Néhémie 3
 - Ne 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ne/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Néhémie 3

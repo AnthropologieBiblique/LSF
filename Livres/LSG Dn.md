@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel
 - Daniel
 - Dn
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel

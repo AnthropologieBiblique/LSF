@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 8
 - Nombres 8
 - Nb 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 8

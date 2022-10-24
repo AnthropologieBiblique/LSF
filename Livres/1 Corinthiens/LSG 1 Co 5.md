@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Corinthiens 5
 - 1 Corinthiens 5
 - 1 Co 5
@@ -8,6 +8,7 @@ tags :
 - Bible/1Co/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Corinthiens 5

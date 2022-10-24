@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Sophonie 2
 - Sophonie 2
 - So 2
@@ -8,6 +8,7 @@ tags :
 - Bible/So/2
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Sophonie 2

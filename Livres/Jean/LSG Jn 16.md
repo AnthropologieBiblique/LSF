@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jean 16
 - Jean 16
 - Jn 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jn/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jean 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 82 (81)
 - Psaumes 82 (81)
 - Ps 82 (81)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/82_81
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 82 (81)

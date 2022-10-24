@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 26
 - Lévitique 26
 - Lv 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 26

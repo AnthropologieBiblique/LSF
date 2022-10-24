@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 38
 - Jérémie 38
 - Jr 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/38
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 38

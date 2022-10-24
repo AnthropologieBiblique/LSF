@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 6
 - Daniel 6
 - Dn 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 6

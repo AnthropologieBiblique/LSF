@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Luc 5
 - Luc 5
 - Lc 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Lc/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Luc 5

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 75 (74)
 - Psaumes 75 (74)
 - Ps 75 (74)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/75_74
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 75 (74)

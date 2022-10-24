@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Marc 14
 - Marc 14
 - Mc 14
@@ -8,6 +8,7 @@ tags :
 - Bible/Mc/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Marc 14

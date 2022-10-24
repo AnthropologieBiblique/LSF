@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 20
 - Isaïe 20
 - Is 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 20

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 31
 - Jérémie 31
 - Jr 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 31

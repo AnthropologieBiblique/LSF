@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 7
 - Isaïe 7
 - Is 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 7

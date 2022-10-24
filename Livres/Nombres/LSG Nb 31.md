@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 31
 - Nombres 31
 - Nb 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 31

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Job 42
 - Job 42
 - Jb 42
@@ -7,6 +7,7 @@ tags :
 - Bible/Jb/42
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Job 42

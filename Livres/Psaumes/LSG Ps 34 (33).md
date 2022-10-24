@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 34 (33)
 - Psaumes 34 (33)
 - Ps 34 (33)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/34_33
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 34 (33)

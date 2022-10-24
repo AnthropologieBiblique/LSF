@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 26
 - Isaïe 26
 - Is 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 26

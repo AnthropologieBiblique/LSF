@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 23
 - 2 Chroniques 23
 - 2 Ch 23
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 23

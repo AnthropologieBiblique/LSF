@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 26
 - Matthieu 26
 - Mt 26
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu 26

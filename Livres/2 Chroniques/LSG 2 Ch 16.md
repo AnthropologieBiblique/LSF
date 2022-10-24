@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 16
 - 2 Chroniques 16
 - 2 Ch 16
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 23
 - Proverbes 23
 - Pr 23
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 23

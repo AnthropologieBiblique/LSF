@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 19
 - Ézéchiel 19
 - Ez 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 19

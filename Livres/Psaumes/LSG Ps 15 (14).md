@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 15 (14)
 - Psaumes 15 (14)
 - Ps 15 (14)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/15_14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 15 (14)

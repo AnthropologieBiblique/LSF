@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Rois 7
 - 1 Rois 7
 - 1 R 7
@@ -8,6 +8,7 @@ tags :
 - Bible/1R/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Rois 7

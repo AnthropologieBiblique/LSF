@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 15
 - Exode 15
 - Ex 15
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/15
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 15

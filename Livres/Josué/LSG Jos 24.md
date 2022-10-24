@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Josué 24
 - Josué 24
 - Jos 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Jos/24
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Josué 24

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 19
 - Proverbes 19
 - Pr 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 19

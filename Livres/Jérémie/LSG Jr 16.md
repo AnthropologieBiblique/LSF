@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 16
 - Jérémie 16
 - Jr 16
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 16

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 1
 - 2 Rois 1
 - 2 R 1
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 1

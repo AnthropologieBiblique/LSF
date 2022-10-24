@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 50
 - Jérémie 50
 - Jr 50
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/50
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 50

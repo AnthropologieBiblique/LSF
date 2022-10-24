@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Cantique des cantiques 1
 - Cantique des cantiques 1
 - Ct 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Ct/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Cantique des cantiques 1

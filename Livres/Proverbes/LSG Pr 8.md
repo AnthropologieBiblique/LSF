@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Proverbes 8
 - Proverbes 8
 - Pr 8
@@ -8,6 +8,7 @@ tags :
 - Bible/Pr/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Proverbes 8

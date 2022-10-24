@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 30
 - Deutéronome 30
 - Dt 30
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/30
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 30

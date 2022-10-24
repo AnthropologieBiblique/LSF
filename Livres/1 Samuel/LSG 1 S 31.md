@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel 31
 - 1 Samuel 31
 - 1 S 31
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel 31

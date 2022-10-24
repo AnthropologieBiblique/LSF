@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 34
 - Nombres 34
 - Nb 34
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/34
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 34

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 31
 - Exode 31
 - Ex 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 31

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nahum 1
 - Nahum 1
 - Na 1
@@ -7,6 +7,7 @@ tags :
 - Bible/Na/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nahum 1

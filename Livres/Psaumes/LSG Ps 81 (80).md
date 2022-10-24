@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 81 (80)
 - Psaumes 81 (80)
 - Ps 81 (80)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/81_80
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 81 (80)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 76 (75)
 - Psaumes 76 (75)
 - Ps 76 (75)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/76_75
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 76 (75)

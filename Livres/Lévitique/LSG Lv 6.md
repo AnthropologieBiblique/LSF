@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 6
 - Lévitique 6
 - Lv 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 6

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 1
 - Isaïe 1
 - Is 1
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/1
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 1

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 3
 - Exode 3
 - Ex 3
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 3

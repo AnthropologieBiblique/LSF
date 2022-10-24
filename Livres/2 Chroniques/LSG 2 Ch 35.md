@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 35
 - 2 Chroniques 35
 - 2 Ch 35
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/35
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 35

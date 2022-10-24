@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 21
 - Deutéronome 21
 - Dt 21
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 21

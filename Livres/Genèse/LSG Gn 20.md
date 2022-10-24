@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 20
 - Genèse 20
 - Gn 20
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/20
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 20

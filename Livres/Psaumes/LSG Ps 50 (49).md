@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 50 (49)
 - Psaumes 50 (49)
 - Ps 50 (49)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/50_49
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 50 (49)

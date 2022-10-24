@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Amos 7
 - Amos 7
 - Am 7
@@ -7,6 +7,7 @@ tags :
 - Bible/Am/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Amos 7

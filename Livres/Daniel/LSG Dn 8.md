@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Daniel 8
 - Daniel 8
 - Dn 8
@@ -7,6 +7,7 @@ tags :
 - Bible/Dn/8
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Daniel 8

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 27
 - Jérémie 27
 - Jr 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/27
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 27

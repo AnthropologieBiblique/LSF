@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 43
 - Jérémie 43
 - Jr 43
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/43
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 43

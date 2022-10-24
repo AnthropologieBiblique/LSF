@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 38
 - Genèse 38
 - Gn 38
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/38
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 38

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 12
 - Matthieu 12
 - Mt 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu 12

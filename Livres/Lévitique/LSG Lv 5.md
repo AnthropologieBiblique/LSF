@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 5
 - Lévitique 5
 - Lv 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 5

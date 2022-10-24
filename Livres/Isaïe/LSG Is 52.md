@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 52
 - Isaïe 52
 - Is 52
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/52
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 52

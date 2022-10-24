@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 23 (22)
 - Psaumes 23 (22)
 - Ps 23 (22)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/23_22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 23 (22)

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 54 (53)
 - Psaumes 54 (53)
 - Ps 54 (53)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/54_53
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 54 (53)

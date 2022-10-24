@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 22
 - Jérémie 22
 - Jr 22
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/22
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 22

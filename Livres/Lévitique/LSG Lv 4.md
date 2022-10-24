@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 4
 - Lévitique 4
 - Lv 4
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/4
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 4

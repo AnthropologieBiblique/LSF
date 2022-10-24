@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 31
 - Isaïe 31
 - Is 31
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/31
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 31

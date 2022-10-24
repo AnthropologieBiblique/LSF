@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 24 (23)
 - Psaumes 24 (23)
 - Ps 24 (23)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/24_23
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 24 (23)

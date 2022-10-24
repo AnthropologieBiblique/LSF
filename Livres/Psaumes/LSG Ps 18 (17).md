@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 18 (17)
 - Psaumes 18 (17)
 - Ps 18 (17)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/18_17
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 18 (17)

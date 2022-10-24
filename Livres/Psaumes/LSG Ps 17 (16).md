@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 17 (16)
 - Psaumes 17 (16)
 - Ps 17 (16)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/17_16
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 17 (16)

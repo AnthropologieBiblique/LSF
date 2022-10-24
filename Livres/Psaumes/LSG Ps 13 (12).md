@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 13 (12)
 - Psaumes 13 (12)
 - Ps 13 (12)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/13_12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 13 (12)

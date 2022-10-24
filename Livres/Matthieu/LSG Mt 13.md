@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Matthieu 13
 - Matthieu 13
 - Mt 13
@@ -8,6 +8,7 @@ tags :
 - Bible/Mt/13
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Matthieu 13

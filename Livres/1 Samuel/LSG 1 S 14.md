@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Samuel 14
 - 1 Samuel 14
 - 1 S 14
@@ -7,6 +7,7 @@ tags :
 - Bible/1S/14
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Samuel 14

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 1 Chroniques 3
 - 1 Chroniques 3
 - 1 Ch 3
@@ -8,6 +8,7 @@ tags :
 - Bible/1Ch/3
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 1 Chroniques 3

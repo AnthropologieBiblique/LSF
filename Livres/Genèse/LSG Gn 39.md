@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 39
 - Genèse 39
 - Gn 39
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/39
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 39

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Isaïe 24
 - Isaïe 24
 - Is 24
@@ -8,6 +8,7 @@ tags :
 - Bible/Is/24
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Isaïe 24

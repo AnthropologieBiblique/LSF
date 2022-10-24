@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 28 (27)
 - Psaumes 28 (27)
 - Ps 28 (27)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/28_27
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 28 (27)

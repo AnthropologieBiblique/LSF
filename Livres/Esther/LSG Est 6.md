@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Esther 6
 - Esther 6
 - Est 6
@@ -7,6 +7,7 @@ tags :
 - Bible/Est/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Esther 6

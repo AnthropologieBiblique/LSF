@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ézéchiel 25
 - Ézéchiel 25
 - Ez 25
@@ -8,6 +8,7 @@ tags :
 - Bible/Ez/25
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ézéchiel 25

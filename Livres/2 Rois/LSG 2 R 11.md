@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Rois 11
 - 2 Rois 11
 - 2 R 11
@@ -8,6 +8,7 @@ tags :
 - Bible/2R/11
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Rois 11

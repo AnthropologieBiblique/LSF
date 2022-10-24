@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Ecclésiaste 7
 - Ecclésiaste 7
 - Qo 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Qo/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Ecclésiaste 7

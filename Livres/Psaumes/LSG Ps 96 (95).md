@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 96 (95)
 - Psaumes 96 (95)
 - Ps 96 (95)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/96_95
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 96 (95)

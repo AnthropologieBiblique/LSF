@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Samuel 19
 - 2 Samuel 19
 - 2 S 19
@@ -7,6 +7,7 @@ tags :
 - Bible/2S/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Samuel 19

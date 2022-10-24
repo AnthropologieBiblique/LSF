@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 16 (15)
 - Psaumes 16 (15)
 - Ps 16 (15)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/16_15
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 16 (15)

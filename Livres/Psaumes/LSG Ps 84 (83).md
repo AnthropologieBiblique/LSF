@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 84 (83)
 - Psaumes 84 (83)
 - Ps 84 (83)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/84_83
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 84 (83)

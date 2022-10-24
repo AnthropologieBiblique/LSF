@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 17
 - Lévitique 17
 - Lv 17
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/17
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 17

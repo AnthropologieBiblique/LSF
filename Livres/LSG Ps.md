@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes
 - Psaumes
 - Ps
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 19
 - Lévitique 19
 - Lv 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 19

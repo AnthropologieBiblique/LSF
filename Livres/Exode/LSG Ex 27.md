@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Exode 27
 - Exode 27
 - Ex 27
@@ -8,6 +8,7 @@ tags :
 - Bible/Ex/27
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Exode 27

@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Nombres 5
 - Nombres 5
 - Nb 5
@@ -8,6 +8,7 @@ tags :
 - Bible/Nb/5
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Nombres 5

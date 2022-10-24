@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Lévitique 12
 - Lévitique 12
 - Lv 12
@@ -8,6 +8,7 @@ tags :
 - Bible/Lv/12
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Lévitique 12

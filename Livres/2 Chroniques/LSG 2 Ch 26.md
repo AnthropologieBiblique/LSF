@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - 2 Chroniques 26
 - 2 Chroniques 26
 - 2 Ch 26
@@ -8,6 +8,7 @@ tags :
 - Bible/2Ch/26
 - français
 cssclass : français
+direction : ltr
 ---
 
 # 2 Chroniques 26

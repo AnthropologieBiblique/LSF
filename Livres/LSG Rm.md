@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Romains
 - Romains
 - Rm
@@ -8,6 +8,7 @@ tags :
 - Bible/Rm
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Romains

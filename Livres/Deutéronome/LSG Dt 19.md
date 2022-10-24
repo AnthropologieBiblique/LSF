@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Deutéronome 19
 - Deutéronome 19
 - Dt 19
@@ -8,6 +8,7 @@ tags :
 - Bible/Dt/19
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Deutéronome 19

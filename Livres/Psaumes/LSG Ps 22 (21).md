@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Psaumes 22 (21)
 - Psaumes 22 (21)
 - Ps 22 (21)
@@ -8,6 +8,7 @@ tags :
 - Bible/Ps/22_21
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Psaumes 22 (21)

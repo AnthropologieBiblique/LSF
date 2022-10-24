@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Zacharie 7
 - Zacharie 7
 - Za 7
@@ -8,6 +8,7 @@ tags :
 - Bible/Za/7
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Zacharie 7

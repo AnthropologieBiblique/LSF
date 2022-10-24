@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Genèse 18
 - Genèse 18
 - Gn 18
@@ -8,6 +8,7 @@ tags :
 - Bible/Gn/18
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Genèse 18

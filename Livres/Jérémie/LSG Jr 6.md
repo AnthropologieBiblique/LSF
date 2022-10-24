@@ -1,5 +1,5 @@
 ---
-aliases : 
+bibleKeys : 
 - Jérémie 6
 - Jérémie 6
 - Jr 6
@@ -8,6 +8,7 @@ tags :
 - Bible/Jr/6
 - français
 cssclass : français
+direction : ltr
 ---
 
 # Jérémie 6
